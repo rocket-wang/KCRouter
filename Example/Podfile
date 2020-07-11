@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KCRouter_Example' do
+  pod 'KCRouter', :path => '../'
+
+  target 'KCRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
