@@ -1,0 +1,16 @@
+PODS:
+  - KCRouter (0.1.0)
+
+DEPENDENCIES:
+  - KCRouter (from `../`)
+
+EXTERNAL SOURCES:
+  KCRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KCRouter: 25456b38da9fa2e55ad16a3df150b79f0362619b
+
+PODFILE CHECKSUM: 537e1eedfb08bc2beda121c38a5dd2c09eb464fd
+
+COCOAPODS: 1.9.1
